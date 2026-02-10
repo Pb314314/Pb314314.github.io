@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Student at <a href='https://www.gatech.edu/'>Georgia Tech</a>. Research in Efficient LLM Training & Reinforcement Learning.
+subtitle: Master's Student in Computer Engineering at <a href='https://www.gatech.edu/'>Georgia Tech</a>, UIUC Alumnus
 
 profile:
   align: right
@@ -28,12 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master's student at Georgia Tech, passionate about making large language models more efficient and scalable. My research focuses on:
+I am currently a Master's student in Computer Engineering at Georgia Tech, and a UIUC alumnus.
 
-- **Efficient Long-Context Training**: Developing novel attention mechanisms to reduce computational overhead in long-context language model training
-- **Reinforcement Learning for LLMs**: Exploring fast synchronous reinforcement learning methods for large language models
-- **Systems for ML**: Building scalable systems to support efficient machine learning workloads
+My technical interests lie in building efficient Machine Learning Systems. I have been fortunate to gain industrial experience through internships at Moonshot AI, AWS, and Nvidia, where I focused on LLM/Multi-modal inference and system efficiency.
 
-I have contributed to several research projects, including work on core attention disaggregation (MLSys 2026) and online context learning for LLM reinforcement learning (OSDI 2026). I also participated in technical reports for Kimi Linear and Kimi K2.5.
+Occasionally, I contribute to academic projects—our recent collaborative work was accepted to MLSys '26.
 
-In this blog, I share my thoughts and insights on machine learning, systems research, and the latest developments in the field. Feel free to reach out if you'd like to collaborate or discuss research ideas!
+Offline: I'm a huge fan of Eason Chan. You can probably catch me listening to his songs while coding.
