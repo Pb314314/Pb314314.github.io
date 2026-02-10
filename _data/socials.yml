@@ -4,5 +4,5 @@
 cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF file
 email: bopang314@gmail.com # your email address
 rss_icon: true # comment this line to hide the RSS icon
-github: Pb314314 # your GitHub username
-linkedin: bo-pang-344225292 # your LinkedIn username (the part after linkedin.com/in/)
+github_username: Pb314314 # your GitHub username
+linkedin_username: bo-pang-344225292 # your LinkedIn username (the part after linkedin.com/in/)
