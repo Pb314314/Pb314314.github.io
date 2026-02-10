@@ -3,6 +3,7 @@
 ## 当前状态
 
 ✅ 所有配置文件已更新：
+
 - `_config.yml` - 个人信息和描述
 - `_data/socials.yml` - 社交链接和邮箱
 - `_pages/about.md` - 关于页面
@@ -16,6 +17,7 @@
 ### 方法1：使用GitHub Pages自动构建（推荐）
 
 1. 提交并推送更改到GitHub：
+
 ```bash
 git add .
 git commit -m "Update personal website with bio, papers, and social links"
@@ -36,12 +38,14 @@ docker-compose up
 ### 方法3：修复Ruby环境
 
 如果需要本地测试，可以：
+
 1. 安装rbenv或rvm来管理Ruby版本
 2. 使用Ruby 3.3.x版本（与Jekyll更兼容）
 
 ## 验证配置
 
 所有文件已正确配置：
+
 - ✅ 照片：`assets/img/prof_pic.jpg`
 - ✅ 简历：`assets/pdf/cv.pdf`
 - ✅ 配置文件语法正确

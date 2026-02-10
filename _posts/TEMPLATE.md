@@ -26,8 +26,9 @@ Write your blog post content here using Markdown.
 ## Markdown Features
 
 You can use:
+
 - **Bold text**
-- *Italic text*
+- _Italic text_
 - [Links](https://example.com)
 - Code blocks with syntax highlighting
 - Images

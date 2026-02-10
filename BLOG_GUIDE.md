@@ -7,11 +7,13 @@
 ## 文件命名格式
 
 文件名必须遵循以下格式：
+
 ```
 YYYY-MM-DD-your-title.md
 ```
 
 例如：
+
 - `2025-02-10-my-first-blog-post.md`
 - `2025-02-15-understanding-attention-mechanisms.md`
 
@@ -60,5 +62,6 @@ Your blog content here using Markdown...
 ## 查看效果
 
 推送后，文章会自动出现在：
+
 - Blog主页：`https://Pb314314.github.io/blog/`
 - 首页最新文章部分（如果启用了 `latest_posts`）
