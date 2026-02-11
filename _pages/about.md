@@ -12,6 +12,7 @@ profile:
     <p><strong>Email:</strong> bopang314@gmail.com</p>
     <p><strong>GitHub:</strong> <a href="https://github.com/Pb314314">Pb314314</a></p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bo-pang-344225292/">Bo Pang</a></p>
+    <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?hl=en&user=59qIQhwAAAAJ" target="_blank">Bo Pang</a></p>
     <p><a href="https://drive.google.com/file/d/1K4n33ipdA43FDQLgxFZpuv6YIeBvfUZ-/view?usp=sharing" target="_blank">View CV on Google Drive</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
