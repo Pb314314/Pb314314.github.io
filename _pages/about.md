@@ -34,4 +34,4 @@ My technical interests lie in building efficient Machine Learning Systems. I hav
 
 Occasionally, I contribute to academic projects—our recent collaborative work was accepted to MLSys '26.
 
-Offline: I'm a huge fan of Eason Chan. You can probably catch me listening to his songs while coding.
+Offline: I enjoy listening to Eason Chan's music, singing, and traveling. I have a British Shorthair cat named Lucky.
