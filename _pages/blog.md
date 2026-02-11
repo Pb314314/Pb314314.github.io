@@ -56,7 +56,13 @@ pagination:
   </div>
   {% endif %}
 
-{% assign featured_posts = site.posts | where: "featured", "true" %}
+{% assign all_featured = site.posts | where: "featured", "true" %}
+{% assign featured_posts = "" | split: "" %}
+{% for post in all_featured %}
+  {% unless post.categories contains "sample-posts" %}
+    {% assign featured_posts = featured_posts | push: post %}
+  {% endunless %}
+{% endfor %}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -104,12 +110,13 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
+      {% assign raw_postlist = paginator.posts %}
     {% else %}
-      {% assign postlist = site.posts %}
+      {% assign raw_postlist = site.posts %}
     {% endif %}
 
-    {% for post in postlist %}
+    {% for post in raw_postlist %}
+      {% unless post.categories contains "sample-posts" %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
@@ -185,6 +192,7 @@ pagination:
 {% endif %}
     </li>
 
+    {% endunless %}
     {% endfor %}
 
   </ul>

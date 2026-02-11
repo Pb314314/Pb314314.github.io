@@ -92,7 +92,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Bo's Blog # blog_name will be displayed in your blog page
-blog_description: Thoughts and insights on machine learning, systems, and research
+blog_description: Random thoughts and occasional musings
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
