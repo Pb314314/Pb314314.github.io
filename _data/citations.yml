@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-05-04'
 papers:
   59qIQhwAAAAJ:9yKSN-GCB0IC:
-    citations: 70
+    citations: 95
     title: 'Kimi K2. 5: Visual Agentic Intelligence'
     year: '2026'
   59qIQhwAAAAJ:d1gkVwhDpl0C:
-    citations: 36
+    citations: 48
     title: 'Kimi linear: An expressive, efficient attention architecture'
     year: '2025'
   59qIQhwAAAAJ:u-x6o8ySG0sC:
@@ -14,6 +14,6 @@ papers:
     title: Efficient Long-context Language Model Training by Core Attention Disaggregation
     year: '2025'
   59qIQhwAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: 'Seer: Online context learning for fast synchronous llm reinforcement learning'
     year: '2025'
